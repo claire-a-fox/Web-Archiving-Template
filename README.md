@@ -7,5 +7,5 @@ _As an archival intern who wants to capture websites that are part of a large co
 ## Criteria for Success
   * Create template draft
   * Collaborate with other interns to distill newcomers' experience with web archiving
-  * Create a template and upload to github as a PDF and .docx
+  * Create a template and upload to github as a .docx
   * Create lightweight website
